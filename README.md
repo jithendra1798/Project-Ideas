@@ -18,3 +18,9 @@
 * Users can delete their own chatrooms
 * Users can add other users into their private chatrooms
 * Only users who are added can view and create messages in private chatrooms
+
+> ### **Expected skills upgrade/obtained**
+* Knowledge of chosen cloud provider’s services
+* Knowledge of how to use a specific set of services and how different services fit together
+* Auth systems
+* Database connection and updates
