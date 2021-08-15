@@ -24,3 +24,25 @@
 * Knowledge of how to use a specific set of services and how different services fit together
 * Auth systems
 * Database connection and updates
+
+## 2. Library Management System
+
+> ### **Project Overview**
+
+* Developing a library management system will help you become well-versed in database management and data manipulation. The library management system intends to bring automation and eliminate traditional paperwork.
+
+* To work on this project, you need to step-up your knowledge about database management (SQL and/or NoSQL database), UI design, and back-end logic development.
+
+* The library management system should allow students to create personal accounts that they can use to view the list of available books and initiate requests for issuing the same. Also, the system needs to have separate administrator access for library officials to update the availability of books, review book issue requests, and maintain a list of defaulters.
+
+* Additionally, it can also track the fine levied on unreturned or overdue books. It is also possible to add some more advanced features to the library management system, such as issuing ebooks and sending automated SMS notifications to students regarding the due dates for returning the books.
+
+> ### **Business rules requirements**
+* Issuing books.
+* Keeping a record of all the books issued.
+* The books that are available for borrowing etc.
+
+> ### **Expected skills upgrade/obtained**
+* Database Management
+* System Design
+* System Development
